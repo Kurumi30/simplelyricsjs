@@ -1,4 +1,4 @@
-import Letras from "./index.js";
+import {Letras} from "./index.js";
 
 async function cli() {
     const letras = new Letras();
